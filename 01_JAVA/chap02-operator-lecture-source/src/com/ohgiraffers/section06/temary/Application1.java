@@ -27,13 +27,7 @@ public class Application1 {
         int num4 = 0;
         int num5 = -5;
 
-        String result4 = (num3 > 0)? "양수다" : (num3==0)? : "음수이다"; //true면 양수 OK but, false라면 조건을 한 번 더 보겠다
-        String result5 = (num4 > 0)? "양수다" : (num4==0)? : "음수이다";
-        String result6 = (num5 > 0)? "양수다" : (num5==0)? : "음수이다";
 
-        System.out.println("num4은 " + result4);
-        System.out.println("num5은 " + result4);
-        System.out.println("num6은 " + result4);
 
 
 
